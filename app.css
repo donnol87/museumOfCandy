@@ -1,3 +1,9 @@
 body{
     background-color: #fad3d7;
 }
+.navbar-scrolled{
+    background-color: black;
+}
+.navbar{
+    transition: .5s;
+}
