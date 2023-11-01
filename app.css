@@ -1,9 +1,14 @@
 body{
-    background-color: #fad3d7;
+    background-color: #e2bec1;
+    font-family: nunito, sans-serif;
 }
 .navbar-scrolled{
-    background-color: black;
+    background-color: #ce9298;
 }
 .navbar{
     transition: .5s;
+}
+
+a:hover{
+    color: red !important;
 }
