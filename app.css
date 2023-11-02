@@ -10,5 +10,11 @@ body{
 }
 
 a:hover{
-    color: red !important;
+    color: rgb(255, 98, 98) !important;
+}
+
+@media (max-width: 1200px){
+    .row h1{
+        font-size: 2em;
+    }
 }
