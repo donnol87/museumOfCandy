@@ -13,8 +13,9 @@ a:hover{
     color: rgb(255, 98, 98) !important;
 }
 
-@media (max-width: 1200px){
+/* attempted media query breakpoint but wasn't needed */
+/* @media (max-width: 1200px){
     .row h1{
         font-size: 2em;
     }
-}
+} */
